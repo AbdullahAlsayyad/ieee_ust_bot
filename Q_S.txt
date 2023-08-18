@@ -1,0 +1,42 @@
+هذا البوست هو عبارة عن كنز للمبرمجين وخصوصا المبتدئين.
+
+اليوم اقدم لكم أكثر الأسئلة الشائعة التي يطرحها المبرمجين المبتدئين في مختلف لغات البرمجة .
+
+🔴 أكثر من 1900 سؤال وجواب في Java
+https://www.tutorialspoint.com/questions/category/Java
+
+
+🔵 أكثر من 2000 سؤال وجواب في html
+https://www.tutorialspoint.com/questions/category/html
+
+
+🟢 أكثر من 1400 سؤال وجواب في css
+https://www.tutorialspoint.com/questions/category/css
+
+
+🟠 أكثر من 6000 سؤال وجواب في JavaScript
+https://www.tutorialspoint.com/questions/category/JavaScript
+
+
+🟠 أكثر من 1300 سؤال وجواب في php
+https://www.tutorialspoint.com/questions/category/php
+
+
+🟡 أكثر من 1400 سؤال وجواب في C
+https://www.tutorialspoint.com/questions/category/C++
+
+
+🟢 أكثر من 9000 سؤال وجواب في Python
+https://www.tutorialspoint.com/questions/category/Python
+
+
+🔴 أكثر من 2000 سؤال وجواب في #C
+https://www.tutorialspoint.com/questions/category/Csharp/
+
+
+🔵 أكثر من 9000 سؤال وجواب في البرمجة الكائنية
+https://www.tutorialspoint.com/questions/category/Object-Oriented-Programming/
+
+
+🟢 أكثر من 6000 سؤال وجواب في ++C
+https://www.tutorialspoint.com/questions/category/cplusplus
